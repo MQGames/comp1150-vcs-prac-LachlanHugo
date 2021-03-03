@@ -38,6 +38,21 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Eyeshadow
+    uniqueID: 3593914151
+    locked: 0
+  - name: Background
+    uniqueID: 3158521867
+    locked: 0
+  - name: Eye
+    uniqueID: 708371879
+    locked: 0
+  - name: Light Spots
+    uniqueID: 4088181373
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Above default
+    uniqueID: 2992584787
     locked: 0
